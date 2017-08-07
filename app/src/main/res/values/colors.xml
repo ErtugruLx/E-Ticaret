@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- LOGİN REGİSTER -->
+    <color name="bg_login">#0099FF</color>
+    <color name="bg_register">#0099FF</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#000000</color>
+    <color name="input_register">#000000</color>
+    <color name="input_register_bg">#FFFFFF</color>
+    <color name="input_register_hint">#000000</color>
+    <color name="btn_login">#FFFFFF</color>
+    <color name="btn_login_bg">#000000</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="gray">#454545</color>
+
+
+    <!-- JSON -->
+    <color name="genre">#666666</color>
+    <color name="year">#888888</color>
+    <color name="list_divider">#d9d9d9</color>
+    <color name="list_row_start_color">#ffffff</color>
+    <color name="list_row_end_color">#ffffff</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+
+    <!-- styles.xml -->
+    <color name="md_indigo_500_25">#403f51b5</color>
+    <color name="md_indigo_700">#303f9f</color>
+    <color name="md_indigo_500">#3f51b5</color>
+    <color name="md_pink_500">#e91e63</color>
+    <color name="md_white_1000">#ffffff</color>
+    <color name="md_yellow_700">#fbc02d</color>
+    <color name="md_yellow_800">#f9a825</color>
+
+
+    <color name="green">#008000</color>
+    <color name="orange">#ff5500</color>
+    <color name="blue">#0000FF</color>
+</resources>

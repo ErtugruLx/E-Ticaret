@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:checked="true"
+            android:id="@+id/item_anasayfa"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Tüm Ürünler" />
+        <item
+            android:id="@+id/item_ciftlik"
+            android:icon="@drawable/ic_action_action_help"
+            android:title="Çiftlik" />
+        <item
+            android:id="@+id/item_domates_biber"
+            android:icon="@drawable/ic_supervisor_account_black_24dp"
+            android:title="Domates Biber" />
+        <item
+            android:id="@+id/item_sut_peynir"
+            android:icon="@drawable/ic_account_circle_white_36dp"
+            android:title="Süt Peynir" />
+
+        <item
+            android:id="@+id/item_yumurta"
+            android:icon="@drawable/ic_account_circle_white_36dp"
+            android:title="Yumurta" />
+
+        <item
+            android:id="@+id/item_salca_tursu"
+            android:icon="@drawable/ic_account_circle_white_36dp"
+            android:title="Salça Turşu" />
+
+        <item
+            android:id="@+id/item_zeyin_zeytinyagi"
+            android:icon="@drawable/ic_account_circle_white_36dp"
+            android:title="Zeytin Zeytinyağı" />
+
+        <item
+            android:id="@+id/item_recel_bal"
+            android:icon="@drawable/ic_account_circle_white_36dp"
+            android:title="Reçel Bal" />
+        <item
+            android:id="@+id/item_ekmek"
+            android:icon="@drawable/ic_account_circle_white_36dp"
+            android:title="Ekmek" />
+    </group>
+
+    <item android:title="Diğer">
+        <menu>
+            <item
+                android:id="@+id/item_hakkinda"
+                android:icon="@drawable/about_24"
+                android:title="Hakkında" />
+            <item
+                android:id="@+id/item_yardim"
+                android:icon="@drawable/privacy_24"
+                android:title="Yardım" />
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_exit_to_app_black_24dp"
+                android:title="Çıkış" />
+        </menu>
+    </item>
+
+</menu>

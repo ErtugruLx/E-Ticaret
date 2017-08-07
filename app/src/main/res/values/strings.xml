@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">eticaret</string>
+
+    <!-- LOGİN REGİSTER -->
+    <string name="action_logout">Çıkış</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="btn_login">GİRİŞ YAP</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Hemen şimdi kayıt ol..</string>
+    <string name="hint_username">Kullanıcı Adı</string>
+    <string name="hint_password">Şifre</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">İsim</string>
+    <string name="btn_link_to_login">Zaten Üye misin! Giriş Yap.</string>
+    <string name="welcome">Hoşgeldiniz</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">İsim</string>
+
+
+    <string name="product_list">Product List</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="unit_price">Unit Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="view">View</string>
+    <string name="action">Action</string>
+    <string name="order">Order</string>
+    <string name="price">Price</string>
+    <string name="total_price">Total Price</string>
+    <string name="remove">Remove</string>
+    <string name="clear_cart">Clear Cart</string>
+    <string name="shop">Shop</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="delete_item_message">Are you sure you want to delete this item?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+
+    <string-array name="adet">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+
+</resources>
